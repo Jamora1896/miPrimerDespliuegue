@@ -1,0 +1,295 @@
+
+{
+"usuarios":[
+     {
+    "id": 1,
+    "nombre": "Carlos Pérez",
+    "correo": "carlos.perez@example.com",
+    "contraseña": "abc123"
+  },
+  {
+    "id": 2,
+    "nombre": "María López",
+    "correo": "maria.lopez@example.com",
+    "contraseña": "maria2025"
+  },
+  {
+    "id": 3,
+    "nombre": "Juan Rodríguez",
+    "correo": "juan.rodriguez@example.com",
+    "contraseña": "juanpass"
+  },
+  {
+    "id": 4,
+    "nombre": "Ana Torres",
+    "correo": "ana.torres@example.com",
+    "contraseña": "torresA*"
+  },
+  {
+    "id": 5,
+    "nombre": "Luis Gómez",
+    "correo": "luis.gomez@example.com",
+    "contraseña": "lgomez22"
+  },
+  {
+    "id": 6,
+    "nombre": "Paula Martínez",
+    "correo": "paula.martinez@example.com",
+    "contraseña": "paumart!9"
+  },
+  {
+    "id": 7,
+    "nombre": "Andrés Ramírez",
+    "correo": "andres.ramirez@example.com",
+    "contraseña": "andresR7"
+  },
+  {
+    "id": 8,
+    "nombre": "Laura Fernández",
+    "correo": "laura.fernandez@example.com",
+    "contraseña": "lf12345"
+  },
+  {
+    "id": 9,
+    "nombre": "David Castro",
+    "correo": "david.castro@example.com",
+    "contraseña": "castroX!"
+  },
+  {
+    "id": 10,
+    "nombre": "Sofía Herrera",
+    "correo": "sofia.herrera@example.com",
+    "contraseña": "sofih2025"
+  }
+],
+"productos":[
+    
+  {
+    "id": 1,
+    "nombre": "Laptop Lenovo",
+    "descripcion": "Laptop de 15.6 pulgadas, 8GB RAM, 512GB SSD",
+    "precio": 2800.00,
+    "cantidad": 12
+  },
+  {
+    "id": 2,
+    "nombre": "Teléfono Samsung Galaxy",
+    "descripcion": "Smartphone 6.5 pulgadas, 128GB almacenamiento",
+    "precio": 1500.00,
+    "cantidad": 25
+  },
+  {
+    "id": 3,
+    "nombre": "Audífonos Bluetooth",
+    "descripcion": "Audífonos inalámbricos con cancelación de ruido",
+    "precio": 250.00,
+    "cantidad": 40
+  },
+  {
+    "id": 4,
+    "nombre": "Teclado Mecánico",
+    "descripcion": "Teclado retroiluminado RGB para gaming",
+    "precio": 320.00,
+    "cantidad": 18
+  },
+  {
+    "id": 5,
+    "nombre": "Mouse Gamer",
+    "descripcion": "Mouse óptico con 6 botones programables",
+    "precio": 150.00,
+    "cantidad": 30
+  },
+  {
+    "id": 6,
+    "nombre": "Monitor LG 24''",
+    "descripcion": "Monitor Full HD IPS, HDMI",
+    "precio": 600.00,
+    "cantidad": 10
+  },
+  {
+    "id": 7,
+    "nombre": "Impresora HP",
+    "descripcion": "Impresora multifuncional inalámbrica",
+    "precio": 800.00,
+    "cantidad": 8
+  },
+  {
+    "id": 8,
+    "nombre": "Tablet iPad",
+    "descripcion": "iPad 10.2 pulgadas, 64GB almacenamiento",
+    "precio": 1900.00,
+    "cantidad": 14
+  },
+  {
+    "id": 9,
+    "nombre": "Smartwatch Xiaomi",
+    "descripcion": "Reloj inteligente con monitoreo de salud",
+    "precio": 450.00,
+    "cantidad": 22
+  },
+  {
+    "id": 10,
+    "nombre": "Cámara Canon",
+    "descripcion": "Cámara réflex digital EOS Rebel",
+    "precio": 2800.00,
+    "cantidad": 6
+  },
+  {
+    "id": 11,
+    "nombre": "Disco Duro Externo",
+    "descripcion": "Disco duro portátil 2TB USB 3.0",
+    "precio": 350.00,
+    "cantidad": 16
+  },
+  {
+    "id": 12,
+    "nombre": "Memoria USB",
+    "descripcion": "Memoria flash 64GB USB 3.1",
+    "precio": 60.00,
+    "cantidad": 70
+  },
+  {
+    "id": 13,
+    "nombre": "Cargador Portátil",
+    "descripcion": "Power bank 20000mAh con carga rápida",
+    "precio": 180.00,
+    "cantidad": 33
+  },
+  {
+    "id": 14,
+    "nombre": "Televisor Samsung 55''",
+    "descripcion": "Smart TV 4K UHD con HDR",
+    "precio": 3200.00,
+    "cantidad": 9
+  },
+  {
+    "id": 15,
+    "nombre": "Consola PlayStation 5",
+    "descripcion": "Consola de videojuegos PS5 825GB",
+    "precio": 3200.00,
+    "cantidad": 5
+  },
+  {
+    "id": 16,
+    "nombre": "Cafetera Oster",
+    "descripcion": "Cafetera eléctrica programable 12 tazas",
+    "precio": 420.00,
+    "cantidad": 20
+  },
+  {
+    "id": 17,
+    "nombre": "Parlante JBL",
+    "descripcion": "Parlante Bluetooth resistente al agua",
+    "precio": 550.00,
+    "cantidad": 27
+  },
+  {
+    "id": 18,
+    "nombre": "Ventilador de Torre",
+    "descripcion": "Ventilador eléctrico con control remoto",
+    "precio": 300.00,
+    "cantidad": 15
+  },
+  {
+    "id": 19,
+    "nombre": "Silla Gamer",
+    "descripcion": "Silla ergonómica con soporte lumbar",
+    "precio": 1200.00,
+    "cantidad": 11
+  },
+  {
+    "id": 20,
+    "nombre": "Bicicleta Montañera",
+    "descripcion": "Bicicleta de montaña con 21 velocidades",
+    "precio": 2100.00,
+    "cantidad": 7
+  }
+
+],
+
+"clientes":[
+
+  {
+    "id": 1,
+    "nombre": "Carlos Pérez",
+    "telefono": "3104567890",
+    "direccion": "Calle 10 #15-23",
+    "barrio": "San Fernando",
+    "ciudad": "Bogotá"
+  },
+  {
+    "id": 2,
+    "nombre": "María López",
+    "telefono": "3129876543",
+    "direccion": "Carrera 8 #24-56",
+    "barrio": "El Prado",
+    "ciudad": "Medellín"
+  },
+  {
+    "id": 3,
+    "nombre": "Juan Rodríguez",
+    "telefono": "3006543210",
+    "direccion": "Diagonal 45 #67-12",
+    "barrio": "Chapinero",
+    "ciudad": "Bogotá"
+  },
+  {
+    "id": 4,
+    "nombre": "Ana Torres",
+    "telefono": "3157894321",
+    "direccion": "Transversal 22 #11-90",
+    "barrio": "Laureles",
+    "ciudad": "Medellín"
+  },
+  {
+    "id": 5,
+    "nombre": "Luis Gómez",
+    "telefono": "3012345678",
+    "direccion": "Avenida 30 #50-45",
+    "barrio": "Villa del Prado",
+    "ciudad": "Cali"
+  },
+  {
+    "id": 6,
+    "nombre": "Paula Martínez",
+    "telefono": "3169871234",
+    "direccion": "Calle 80 #70-14",
+    "barrio": "Cedritos",
+    "ciudad": "Bogotá"
+  },
+  {
+    "id": 7,
+    "nombre": "Andrés Ramírez",
+    "telefono": "3207654321",
+    "direccion": "Carrera 60 #35-08",
+    "barrio": "El Poblado",
+    "ciudad": "Medellín"
+  },
+  {
+    "id": 8,
+    "nombre": "Laura Fernández",
+    "telefono": "3185432198",
+    "direccion": "Calle 25 #19-65",
+    "barrio": "Ciudad Jardín",
+    "ciudad": "Cali"
+  },
+  {
+    "id": 9,
+    "nombre": "David Castro",
+    "telefono": "3228765432",
+    "direccion": "Carrera 40 #22-44",
+    "barrio": "Santa Mónica",
+    "ciudad": "Barranquilla"
+  },
+  {
+    "id": 10,
+    "nombre": "Sofía Herrera",
+    "telefono": "3192345671",
+    "direccion": "Calle 50 #30-20",
+    "barrio": "La Castellana",
+    "ciudad": "Bogotá"
+  }
+
+]
+
+}
